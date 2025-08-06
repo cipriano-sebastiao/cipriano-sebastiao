@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cipriano – psych candidate by day, coder by night!
+- 👋 Hi, I’m @cipriano ~ psych candidate by day, coder by night!
 - 🎓 MSc in Data Science & Artificial Intelligence
-- 🚀 Aspiring AI Engineer | Data Analyst → Data Scientist → ML Engineer → AI
-- 🧠 Background in Psychology | Interested in Cognitive Robotics
+- 🚀 Aspiring AI Engineer ~ Data Analyst → Data Scientist → ML Engineer → AI
+- 🧠 Background in Psychology ~ Interested in Cognitive Robotics
 - 🌱 I’m currently learning SQL, Python, Machine Learning/Deep Neural Networks (CNNs, RNNs) + MLOps – one project at a time!
 - 🤝 I’m looking to collaborate on data projects that blend cognitive psychology and analytics to solve real-world problems.
 - 📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cipriano-sebastiao) or email me at [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:ciprianogertrudes@gmail.com) 
