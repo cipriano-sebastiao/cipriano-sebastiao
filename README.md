@@ -7,7 +7,7 @@
 - 📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cipriano-sebastiao) or email me at [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:ciprianogertrudes@gmail.com) 
 
 ## 🛠️ Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,tensorflow,pytorch,git,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql,tensorflow,pytorch,git,docker,kubernetes,vscode)](https://skillicons.dev)
 
 ### 👨‍💻 Languages
 <p align="left">
@@ -37,6 +37,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="BigQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
