@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cipriano ~ psych candidate by day, coder by night!
-- 🎓 MSc in Data Science & Artificial Intelligence
-- 🚀 Aspiring AI Engineer ~ Data Analyst → Data Scientist → ML Engineer → AI
+- 🚀 Aspiring AI Engineer ~ Data Engineer → Data Scientist → ML Engineer → AI
 - 🧠 Background in Psychology ~ Interested in Cognitive Robotics
 - 🌱 I’m currently learning SQL, Python, Machine Learning/Deep Neural Networks (CNNs, RNNs) + MLOps – one project at a time!
 - 🤝 I’m looking to collaborate on data projects that blend cognitive psychology and analytics to solve real-world problems.
