@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cipriano  
+- 👋 Hi, I’m @cipriano ~
 - 🎓 MSc Data Science and Artificial Intelligence
 - 🚀 Data Analyst → Data Scientist → ML Engineer 
 - 🧠 Background in Psychology (Cognitive Neuroscience) ~ Interested in Cognitive Robotics
