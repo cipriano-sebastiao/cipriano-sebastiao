@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cipriano ~ psych candidate by day, AI researcher by night!
+- 👋 Hi, I’m @cipriano  
 - 🎓 MSc Data Science and Artificial Intelligence
 - 🚀 Data Analyst → Data Scientist → ML Engineer 
 - 🧠 Background in Psychology (Cognitive Neuroscience) ~ Interested in Cognitive Robotics
