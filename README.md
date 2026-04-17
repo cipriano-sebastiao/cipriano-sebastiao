@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @cipriano ~
-- 🎓 MSc Data Science and Artificial Intelligence
-- 🚀 Data Analyst → Data Scientist → ML Engineer 
-- 🧠 Background in Psychology (Cognitive Neuroscience) ~ Interested in Cognitive Robotics
-- 🌱 I’m currently learning SQL, Python, Machine Learning/Deep Neural Networks (CNNs, RNNs) + MLOps 
-- 🤝 I’m looking to collaborate on data projects that blend cognitive modelling, machine learning, and data analytics to solve real-world problems.
+- MSc Data Science and Artificial Intelligence
+- Data Analyst → Data Scientist → ML Engineer 
+- Background in Psychology (Cognitive Neuroscience)
+- I’m looking to collaborate on projects that combine cognitive modelling with machine learning and data analytics to solve real-world problems.
 - 📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cipriano-sebastiao) or email me at [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:ciprianogertrudes@gmail.com) 
 
 ## 🛠️ Tech Skills
@@ -12,7 +11,7 @@
 ### 👨‍💻 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" alt="R"/>
 </p>
 
 ### 📊 Machine Learning & Data Science
