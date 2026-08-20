@@ -1,47 +1,49 @@
-- 👋 Hi, I’m @cipriano ~
-- MSc Data Science and Artificial Intelligence
-- Data Analyst → Data Scientist → ML Engineer 
-- Background in Psychology (Cognitive Neuroscience)
-- I’m looking to collaborate on projects that combine cognitive modelling with machine learning and data analytics to solve real-world problems.
-- 📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cipriano-sebastiao) or email me at [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:ciprianogertrudes@gmail.com) 
+- 👋 Hi, I’m **@cipriano** 
+- 🎓 MSc Data Science and Artificial Intelligence
+- 👾 Data Analyst → Data Scientist → ML Engineer 
+- 🧠 Background in Psychology
+- 🦾 Building projects at the intersection of **cognitive neuroscience**, **machine learning**, and **data analysis**
+- 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cipriano-sebastiao)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ciprianogertrudes@gmail.com)
+
+## 💻 Featured Projects
+| Project | Description | Skills |
+|---|---|---|
+| [Demographic Analysis of England's Population (2021 Census)](https://github.com/cipriano-sebastiao/england-demographic-data-analysis) | An exploratory data analysis of England’s 2021 Census data, examining population counts across 33,755 Lower Layer Super Output Areas (LSOAs). The project investigates demographic patterns and geographic variation to turn census data into insights about population. | Python, Exploratory Data Analysis (EDA), Data Cleaning, Data Wrangling, Data Visualisation, Pandas, NumPy, Matplotlib, Seaborn, Statistical Analysis |
+| [FiQA-2018 Financial Information Retrieval System](https://github.com/cipriano-sebastiao/fiqa-ir-system) | Developed an interactive NLP search application using BM25 and SBERT semantic retrieval on the FiQA-2018 financial QA benchmark. Built a Gradio interface for comparing keyword-based and embedding-based search, with automated dataset handling and scalable corpus encoding workflows. | Information Retrieval, Natural Language Processing (NLP), Semantic Search, BM25, SBERT, Sentence Transformers, Text Embeddings, Vector Similarity Search |
+| [Exploratory Analysis and Regression Modelling of Texas Bridge Data](https://github.com/cipriano-sebastiao/texas-bridge-analysis) | A statistical data-analysis project investigating the factors associated with structural deterioration in bridges across Texas. It uses the 2019 Texas Department of Transportation (TxDOT) Bridge Inventory to explore bridge-condition data and identify relationships between structural, environmental, and operational variables and overall bridge condition. | Python, Data Analysis, Exploratory Data Analysis (EDA), Statistical Analysis, Regression Analysis, Data Cleaning, Data Visualisation, Pandas, NumPy, Matplotlib, Seaborn, Predictive Modelling, Feature Engineering |
 
 ## 🛠️ Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,tensorflow,pytorch,git,docker,kubernetes,vscode)](https://skillicons.dev)
+### Programming Languages
 
-### 👨‍💻 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" alt="R"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📊 Machine Learning & Data Science
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-</p>
+### Machine Learning & Data Science
 
-### 🗃️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### ☁️ Cloud & Infrastructure
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="BigQuery"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</p>
+### BI Tools
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <!---
 cipriano-sebastiao/cipriano-sebastiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
